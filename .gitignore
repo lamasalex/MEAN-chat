@@ -24,3 +24,8 @@
 
 # Custom ignore statements
 .env.json
+bower_components/
+.bowerrc
+node_modules/
+npm-debug.log
+www/
